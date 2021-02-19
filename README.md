@@ -1,23 +1,23 @@
 # Number Oracle
 
-My solution to [assignment sheet 7](https://cnds.jacobs-university.de/courses/os-2020/p07.pdf) of [Operating Systems Fall 2020](https://cnds.jacobs-university.de/courses/os-2020/) course.
+My solution to [assignment sheet 7](https://cnds.jacobs-university.de/courses/os-2020/p07.pdf) of the [Operating Systems Fall 2020](https://cnds.jacobs-university.de/courses/os-2020/) course.
 
 Please find the code in [quiz.c](quiz.c)
 
 ## Requirements
 
-My json parser uses a library [json-c](https://github.com/json-c/json-c)
+My json parser uses the library [json-c](https://github.com/json-c/json-c)
 
 It can be installed via either of the following commands
 (whichever is more applicable to your case)
 
-`sudo apt install -y libjson-c-dev` For Debian/Ubuntu Linux users
+`sudo apt install -y libjson-c-dev` for Debian/Ubuntu Linux users
 
 or
 
-`brew install json-c` For macOS users
+`brew install json-c` for macOS users
 
-Refer to this link for more detailed build instructions.
+Refer to [this link](https://github.com/json-c/json-c#build-instructions--) for more detailed build instructions.
 
 
 ## Compile the Code
