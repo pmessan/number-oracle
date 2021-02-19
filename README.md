@@ -2,7 +2,7 @@
 
 My solution to [assignment sheet 7](https://cnds.jacobs-university.de/courses/os-2020/p07.pdf) of [Operating Systems Fall 2020](https://cnds.jacobs-university.de/courses/os-2020/) course.
 
-Please find the code in ()[quiz.c]
+Please find the code in [](quiz.c)
 
 My json parser uses a library json-c
 
