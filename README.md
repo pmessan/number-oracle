@@ -4,7 +4,9 @@ My solution to [assignment sheet 7](https://cnds.jacobs-university.de/courses/os
 
 Please find the code in [quiz.c](quiz.c)
 
-My json parser uses a library json-c
+## Requirements
+
+My json parser uses a library [json-c](https://github.com/json-c/json-c)
 
 It can be installed via either of the following commands
 (whichever is more applicable to your case)
@@ -15,7 +17,18 @@ or
 
 `brew install json-c` For macOS users
 
+Refer to this link for more detailed build instructions.
+
+
+## Compile the Code
 
 The executable can be compiled with the following command:
 
 ```gcc -Wall -o quiz -I/usr/local/include -L/usr/local/lib -ljson-c  quiz.c```
+
+## Run the code
+
+Simply do: `./quiz`
+
+
+Enjoy! ☺️ 
