@@ -26,7 +26,7 @@ The executable can be compiled with the following command:
 
 ```gcc -Wall -o quiz -I/usr/local/include -L/usr/local/lib -ljson-c  quiz.c```
 
-## Run the code
+## Run the Code
 
 Simply do: `./quiz`
 
